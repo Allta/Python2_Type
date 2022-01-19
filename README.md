@@ -21,10 +21,19 @@ Si vous avez des problèmes sur une command utilisez `git [command] --help`.
 
 :raising_hand: Si vous avez des soucis n'hésitez pas à m'appeler. 
  
+ 
+Dans cet exercice, vous devez créer des objets de différents types natifs.
+
+Pour valider l'exercice, vous ne devez pas toucher aux noms des variables définis dans le code de départ.
+
+Il suffit de mettre les objets demandés à chaque ligne après le symbole =.
+
+Les valeurs des objets ne sont pas importantes, vous pouvez ainsi mettre n'importe quelle valeur dans les chaînes de caractères, nombres ou booléens, l'important est juste de respecter le type demandé.
+
+ 
 ## Exercice 1: Authentification
 
-- Générer une paire de clef SSH
-- Pousser votre clef publique dans votre profile Github
+
 
 
 ## Exercice 2 : Cloner le repository
